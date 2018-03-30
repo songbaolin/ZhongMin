@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ZhongMin7"
+  id="myeclipse.1520993647765"
+  context-root="/ZhongMin"
+  j2ee-spec="6.0"
+  archive="ZhongMin7.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
